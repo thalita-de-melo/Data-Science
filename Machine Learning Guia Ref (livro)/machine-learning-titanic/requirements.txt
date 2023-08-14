@@ -1,5 +1,6 @@
 # local package
 -e .
+yellowbrick
 
 # external requirements
 click
